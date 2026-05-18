@@ -28,12 +28,7 @@ For further details please contact: Ainepadma24@gmail.com
 2. STM32CubeIDE
 3. MaixVision (Sipeed official IDE for MaixCAM series)
 
-### Artificial Intelligence Model
 
-1. GPT-5.2-Codex
-2. DeepSeek V4 Pro
-
-Cumulative token usage: 400–500 million
 
 ## Project Instruction
 
@@ -240,7 +235,7 @@ README.md
 
 - **Sipeed** — MaixCAM PRO hardware and MaixPy SDK
 - **Southeast University** — 28th Electronics Design Contest organization
-- **GitHub Copilot** — AI-assisted development (DeepSeek V4 Pro / GPT-5.2-Codex)
+- **GitHub Copilot** — AI-assisted development (DeepSeek V4 Pro / GPT-5.2-Codex) (Cumulative token usage: 400–500 million)
 
 ---
 
