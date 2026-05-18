@@ -237,6 +237,15 @@ README.md
 - **Southeast University** — 28th Electronics Design Contest organization
 - **GitHub Copilot** — AI-assisted development (DeepSeek V4 Pro / GPT-5.2-Codex) (Cumulative token usage: 400–500 million)
 
+### 10. References
+
+1. https://wiki.sipeed.com/hardware/zh/maixcam/maixcam_pro.html
+2. https://maixhub.com/model/training/project
+3. https://universe.roboflow.com/test-khffh/bottle-sfn0j/dataset
+4. https://wiki.sipeed.com/soft/maixpy/zh/api_reference/machine_vision/image
+5. https://blog.csdn.net/weixin_42497762/article/details/156349357
+6. https://wiki.sipeed.com/soft/maixpy/zh/course/ai/train/maixhub.html
+
 ---
 
 *Project completed May 2026.*
