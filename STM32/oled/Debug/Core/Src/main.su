@@ -1,0 +1,13 @@
+../Core/Src/main.c:141:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:172:6:convert_color_code_to_name	32	static
+../Core/Src/main.c:196:6:parse_data_frame	184	static
+../Core/Src/main.c:329:7:low_pass_filter	24	static
+../Core/Src/main.c:337:10:get_adc_median	24	static
+../Core/Src/main.c:366:6:Read_Current	24	static
+../Core/Src/main.c:388:9:is_key_pressed	16	static
+../Core/Src/main.c:406:6:refresh_power_display	56	static
+../Core/Src/main.c:418:6:update_top_lines	56	static
+../Core/Src/main.c:433:7:filter_array	56	static
+../Core/Src/main.c:454:5:main	16	static
+../Core/Src/main.c:614:6:SystemClock_Config	88	static
+../Core/Src/main.c:644:6:Error_Handler	4	static,ignoring_inline_asm
