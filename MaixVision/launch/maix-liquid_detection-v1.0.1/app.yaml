@@ -1,0 +1,8 @@
+id: liquid_detection
+name: liquid_detection
+version: 1.0.1
+author: Ainepadma
+icon: ''
+desc: test vesion
+files:
+  - main.py
