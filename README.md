@@ -184,6 +184,8 @@ MaixVision/
 │   ├── maix-liquid_detection-v1.3.5/ (our final vesion)
 │   └── maix-liquid_detection-v1.3.6/ (the latest vesion)
 └── backup/
+    ├── liq1010/                    # A backup on the last day
+    ├── test_height/                # Early experimental version
     ├── 0317.py                     # Early prototype (March 17)
     ├── 120.py                      # Variant with different detection params
     ├── finished.py                 # Feature-complete snapshot
@@ -192,19 +194,23 @@ MaixVision/
 
 
 Models/
-├── dataset/                    # Training dataset for custom model
+├── dataset/                    # Training dataset for custom model (incomplete)
 ├── model_273912.maixcam        # Custom 2-class model package
 ├── model_274449.maixcam        # Custom 2-class model package (the latest and our final vesion)
-└── yolov5s.maixcam             # COCO YOLOv5s model package
+└── model-yolo-v5s              # COCO YOLOv5s model package
 
 
 STM32/
-├── luanch/
-│   └── vesion01/ 
-└── backup/
-    └── test.c                  # STM32 test routines
+├── backup/
+│   └── test.c                  # STM32 test routines
+└── oled/                       # A complete CubeIDE project
+    └── Core/                   # Core code
+        
+              
 
 
+Problem D.pdf
+Project Report.pdf
 README.md
 
 ```
