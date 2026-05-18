@@ -1,0 +1,8 @@
+id: liq1010
+name: bottle final
+version: 1.0.0
+author: LL
+icon: ''
+desc: '00'
+files:
+  - main.py
